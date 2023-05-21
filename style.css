@@ -1,0 +1,19 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px purple;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+}
+.body
+{
+    background-image: url("https://lesfm.net/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzhgxj6ko%2Fproduction%2F51f327abe027c70f75fa3d34d41b0307267e88f1-3000x3000.jpg&w=640&q=75");
+}
